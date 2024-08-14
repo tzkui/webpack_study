@@ -4,7 +4,7 @@ function component() {
   const element = document.createElement('div');
   const btn = document.createElement('button');
 
-  element.innerHTML = "这是里面的内容"
+  element.innerHTML = "这是里面的11内容1121"
   btn.innerHTML = 'Click me and check the console!';
   btn.onclick = printMe;
 
